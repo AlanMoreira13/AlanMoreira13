@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanMoreira13
 - 👀 I’m interested in  iniciar na area da programação
-- 🌱 I’m currently  estudadndo materiais grátis no youtube sobre python, mas em breve comprarei o curso do programadorBr 
+- 🌱 I’m currently  estudadndo Python
 - 💞️ No momento quero adquirir o máximo de conhecimento na parte básica e  praticar bastante
 - 📫 How to reach me? meu e-mail é moreiraalan22@gmail.com
 
