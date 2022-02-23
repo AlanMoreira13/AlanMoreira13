@@ -1,10 +1,4 @@
-- 👋 Olá, sou o Alan Moreira
-- 👀 Estou ansioso para iniciar na area da programação
-- 🌱 Atualmente estou estudando Javascript, HTML e CSS
-- 📫 Meu e-mail é moreiraalan22@gmail.com
-- 👨‍💻 Estou estudando em media 7 horas por dia 
-- 📚 Faço o curso Full Stack do Igor Oliveira. o Programador Br
-##
+
 # Alan Moreira
 ## Olá, seja muito bem vindo 😄
 <div align="center">
@@ -31,7 +25,12 @@
    <a href="https://www.facebook.com/alan.moreira.7165331" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  
 </div>
- 
+ - 👋 Olá, sou o Alan Moreira
+- 👀 Estou ansioso para iniciar na area da programação
+- 🌱 Atualmente estou estudando Javascript, HTML e CSS
+- 👨‍💻 Estou estudando em media 7 horas por dia 
+- 📚 Faço o curso Full Stack do Igor Oliveira. O Programador Br
+##
 
 <!---
 AlanMoreira13/AlanMoreira13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
