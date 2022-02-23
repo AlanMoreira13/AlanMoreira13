@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AlanMoreira13
-- 👀 I’m interested in  iniciar na area da programação
-- 🌱 I’m currently  estudando Python
-- 💞️ No momento quero adquirir o máximo de conhecimento na parte básica e  praticar bastante
-- 📫 How to reach me? meu e-mail é moreiraalan22@gmail.com
-
+- 👋 Olá, sou o Alan Moreira
+- 👀 Estou ansioso para iniciar na area da programação
+- 🌱 Atualmente estou estudando Javascript, HTML e CSS
+- 📫 Meu e-mail é moreiraalan22@gmail.com
+- 👨‍💻 Estou estudando em media 7 horas por dia 
+- 📚 Faço o curso Full Stack do Igor Oliveira. o Programador Br
 <!---
 AlanMoreira13/AlanMoreira13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
