@@ -8,9 +8,12 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="Alan-jQuery" height="30" width="30" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alan-firebase" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png">
+  <img align="center" alt="Alan-github" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+  
  
 </div>
   
@@ -30,9 +33,9 @@
   
  - 👋 Olá, sou o Alan Moreira
 - 👀 Estou ansioso para iniciar na area da programação
-- 🌱 Atualmente estou estudando Javascript, HTML e CSS
-- 👨‍💻 Estou estudando em media 7 horas por dia 
-- 📚 Faço o curso Full Stack do Igor Oliveira. O Programador Br
+- 🌱 Atualmente estou estudando Javascript, jQuery e Bootstrap
+- 👨‍💻 Estudo em media 7 horas por dia 
+- 📚 Estou cursando Web Full-Stack - Programador Br
 
 
 <!---
