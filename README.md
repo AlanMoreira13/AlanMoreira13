@@ -7,11 +7,12 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMoreira13&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Alan-react" height="30" width="35" src="https://www.pinclipart.com/picdir/big/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-jQuery" height="30" width="30" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-BOOTSTRAP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
+  <img align="center" alt="Alan-BOOTSTRAP" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
   <img align="center" alt="Alan-firebase" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png">
   <img align="center" alt="Alan-github" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   
@@ -32,11 +33,12 @@
   
 ##
   
- - 👋 Olá, sou o Alan Moreira
+- 👋 Olá, sou o Alan Moreira
 - 👀 Estou ansioso para iniciar na area da programação
-- 🌱 Atualmente estou estudando Javascript, jQuery e Bootstrap
+- ✅ Estudos concluídos: HTML, CSS, JAVASCRIPT, BOOTSTRAP
+- 🌱 Atualmente estou estudando <strong>React</strong>
 - 👨‍💻 Estudo em media 7 horas por dia 
-- 📚 Estou cursando Web Full-Stack - Programador Br
+- 📚 Estou cursando <em>Desenvolvimento Web Full-Stack</em>
 
 
 <!---
