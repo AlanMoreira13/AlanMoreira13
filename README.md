@@ -34,8 +34,8 @@
 ##
   
 - 👋 Olá, sou o Alan Moreira
-- 👀 Estou ansioso para iniciar na área da programação
-- ✅ Estudos concluídos: HTML, CSS, JAVASCRIPT, BOOTSTRAP, jQuery, FIREBASE
+- 👀 Estou em busca de uma oportunidade para iniciar na área da programação
+- ✅ Estudos concluídos: HTML, CSS, Javascript, Bootstrap, jQuery, Firebase
 - 🌱 Atualmente estou estudando <strong>React</strong>
 - 👨‍💻 Estudo em média 7 horas por dia 
 - 📚 Estou cursando <em>Desenvolvimento Web Full-Stack</em>
