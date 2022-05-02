@@ -3,7 +3,7 @@
 ## Olá, seja muito bem vindo 😄
 <div align="center">
   <a href="https://github.com/AlanMoreira13">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AlanMoreira13&show_icons=true&theme=dark&include_all_commits=true&count_private=true&count_public=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AlanMoreira13&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
     
  
     
@@ -12,7 +12,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alan-react" height="30" width="35" src="https://www.pinclipart.com/picdir/big/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
-  
+  <img align="center" alt="Alan-Node" height="30" width="30" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-jQuery" height="30" width="30" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
