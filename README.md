@@ -3,13 +3,13 @@
 ## Olá, seja muito bem vindo 😄
 <div align="center">
   <a href="https://github.com/AlanMoreira13">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AlanMoreira13&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
     
- 
-    
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AlanMoreira13&theme=dark"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMoreira13&layout=compact&langs_count=7&theme=dark"/>
+    
   </a>
 </div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Alan-react" height="30" width="35" src="https://www.pinclipart.com/picdir/big/207-2071102_es7-snippets-react-native-icon-png-clipart.png">
   <img align="center" alt="Alan-Node" height="30" width="30" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
@@ -21,8 +21,7 @@
   <img align="center" alt="Alan-firebase" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png">
   <img align="center" alt="Alan-github" height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   
- 
-</div>
+ </div>
   
 
    ##
