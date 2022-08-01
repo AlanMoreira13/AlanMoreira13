@@ -33,7 +33,7 @@
   <a href="https://wa.me/5551993590452" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   <a href = "mailto:moreiraalan22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.facebook.com/alan.moreira.7165331" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   <a href="https://alanmoreira13.github.io/portfolio-deploy/" target=" _blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+   <a href="https://alanmoreira13.github.io/portfolio-deploy/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
  
 </div>
   
